@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-configs"
+name = "sigmaos_archlinux_configs"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-configs component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-configs component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-configs"
+name = "sigmaos_archlinux_configs"
 path = "src/lib.rs"
